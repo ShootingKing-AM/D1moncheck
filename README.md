@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @D1moncheck
 - 👀 I’m interested in programming, modeling and creating games.
 - 🌱 I’m currently learning python, с#, с++, nodejs, javascript.
-- 💞️ I’m looking to collaborate
 - 📫 If you want to contact me, then write to the mail kdm060908@gmail.com
 
 <!---
