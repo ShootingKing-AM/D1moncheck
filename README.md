@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dmitrii</h1>
 <h3 align="center">Python is a developer and creator of games from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d1moncheck&label=Profile%20views&color=0e75b6&style=flat" alt="d1moncheck" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=d1moncheck&label=Profile%20views&color=0e75b6&style=flat" alt="d1moncheck" /> </p>
 
-<p align="left"> <a href="https://twitter.com/d1moncheck" target="blank"><img src="https://img.shields.io/twitter/follow/d1moncheck?logo=twitter&style=for-the-badge" alt="d1moncheck" /></a> </p>
+<p align="center"> <a href="https://twitter.com/d1moncheck" target="blank"><img src="https://img.shields.io/twitter/follow/d1moncheck?logo=twitter&style=for-the-badge" alt="d1moncheck" /></a> </p>
 
 - 📫 How to reach me **dkoncheck@ya.ru**
 
