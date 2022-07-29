@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitrii</h1>
-<h3 align="center">Python is a developer and creator of games from Russia</h3>
+<h3 align="center">Python developer and creator of games from Russia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d1moncheck&label=Profile%20views&color=0e75b6&style=flat" alt="d1moncheck" /> </p>
 
